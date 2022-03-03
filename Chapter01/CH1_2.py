@@ -1,4 +1,4 @@
-import math
+import math #导入数学库
 pi = 0
 i = 1
 while True:
