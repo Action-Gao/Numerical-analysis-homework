@@ -1,0 +1,4 @@
+{
+    "pasteImage.namePrefix": "mk-",
+    "pasteImage.path": "${currentFileDir}/img"
+}
