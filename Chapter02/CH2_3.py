@@ -1,6 +1,5 @@
 ## 方程组的性态和矩阵条件数的实验
 
-from typing import Type
 import numpy as np
 
 def set_A_matrix(n,cho):
